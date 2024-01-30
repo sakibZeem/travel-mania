@@ -34,7 +34,12 @@ import Booking from '../pages/Booking/Booking';
         {
           path: 'booking',
           element: <Booking></Booking>
+        },
+        {
+          path: 'signup',
+          element: <SignUp></SignUp>
         }
+
       ]
     },
   ]);

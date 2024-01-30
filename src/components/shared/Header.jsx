@@ -1,8 +1,6 @@
 import React from 'react';
-import bg from '../../assets/images/Rectangle 26.png';
 import { Link } from 'react-router-dom';
 import { SiYourtraveldottv } from "react-icons/si";
-import { CiSearch } from "react-icons/ci";
 
 const Header = () => {
     return (

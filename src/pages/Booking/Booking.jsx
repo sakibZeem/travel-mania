@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import DatePicker from 'react-datepicker';
 import { CgBookmark } from "react-icons/cg";
 
 const Booking = () => {
-    const [date, setDate] = useState(new Date());
     return (
         <div>
             <div className="hero min-h-screen bg-hero-pattern  bg-transparent " >
