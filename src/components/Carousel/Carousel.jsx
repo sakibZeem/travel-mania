@@ -2,7 +2,6 @@ import React from 'react';
 
 const Carousel = ({ destination }) => {
     const { img } = destination;
-    console.log(img);
     return (
         <>
             <div className="carousel-item">

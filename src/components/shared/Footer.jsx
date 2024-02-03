@@ -1,4 +1,3 @@
-import React from 'react';
 import { SiYourtraveldottv } from "react-icons/si";
 
 const Footer = () => {
